@@ -12,3 +12,6 @@ System.out.prontln("VAT: "+VAT);
 System.out.println("Total: "+total);
  }
 }
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
